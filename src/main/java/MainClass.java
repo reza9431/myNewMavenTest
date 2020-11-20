@@ -9,6 +9,7 @@ public class MainClass {
         hmap.put("Reza" , 001);
         hmap.put("Sara", 002);
         hmap.put("Mina", 003);
+        hmap.put("Sahar", 004);
 
         System.out.println(hmap.size());
         System.out.println(hmap);
